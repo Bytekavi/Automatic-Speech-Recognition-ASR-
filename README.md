@@ -86,7 +86,7 @@ python app/main.py
 Gradio will display a local URL such as:
 
 ```text
-http://127.0.0.1:7860
+http://127.0.0.1:7862/
 ```
 
 Open that URL in your browser.
