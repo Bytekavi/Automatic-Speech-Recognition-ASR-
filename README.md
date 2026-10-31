@@ -205,4 +205,4 @@ Replace `YOUR-USERNAME` with your GitHub username.
 - Noise reduction
 - REST API
 - Docker deployment
-- Cloud deployment
+- Cloud deployment .
